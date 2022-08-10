@@ -1,0 +1,9 @@
+Version 3.0.97ua-2
+— Updated Ukrainian Localization
+
+Version 3.0.97ua-1
+— Hotfix for Minion (the folder is incorrect)
+
+Version 3.0.97ua
+— UA Localization works with original Dolgubon's Lazy Writ Creator v3.0.97ua
+— Uploaded basic data for Ukrainian Translation
