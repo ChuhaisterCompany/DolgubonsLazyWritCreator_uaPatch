@@ -1,8 +1,8 @@
 ## Title: UA Patch for Dolgubon's Lazy Writ Creator
 ## Description: UA Patch for Dolgubon's Lazy Writ Creator
-## APIVersion: 101034
+## APIVersion: 101035
 ## Author: Dolgubon (original); w2unemdhysend
-## Version: 3.0.97ua-2
+## Version: 3.0.98ua
 ## DependsOn: DolgubonsLazyWritCreator
 
 MasterWrits.lua
